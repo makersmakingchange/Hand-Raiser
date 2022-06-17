@@ -27,11 +27,11 @@ If you have the skills and equipment to build this device, and would like to don
 |------------------------------|---------|--------------------------------------------------------------------------------|
 | Maker Checklist              | 1.0     | [Maker Checklist](/Documentation/Hand-Raiser_Maker_Checklist.pdf)         |
 | Bill of Materials            | 1.0     | [BOM](/Documentation/Working_Documentation/Hand-Raiser_BOM_V1.0.xlsx)                                |
-| 3D Printing Guide            | 1.0     | [3D Printing Guide](Documentation/Hand-Raiser_3D_Printing_Guide.pdf)      |
+| 3D Printing Guide            | 1.0     | [3D Printing Guide](Documentation/Hand-Raiser_3D_Print_Guide.pdf)      |
 | Assembly Guide               | 1.0     | [Assembly Guide](/Documentation/Hand-Raiser_Assembly_Guide.pdf)           | 
 | Maker Checklist              | 1.0     | [Maker Checklist](/Documentation/Hand-Raiser_Maker_Checklist.pdf)         |
 | Adding Additional Colours    | 1.0     | [Adding Additional Colours](/Documentation/Hand-Raiser_How_to_Add_Additional_Colours.pdf)                  |
-| User Quick Guide     | 1.0     | [User Guide](/Documentation/Hand-Raiser_User_Guide_v1.0.pdf)                  |
+| User Quick Guide     | 1.0     | [User Guide](/Documentation/Hand-Raiser_User_Guide.pdf)                  |
 
 ## Attribution 
 
