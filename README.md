@@ -26,7 +26,7 @@ If you have the skills and equipment to build this device, and would like to don
 | Document                     | Version | Link                                                                                  
 |------------------------------|---------|--------------------------------------------------------------------------------|
 | Maker Checklist              | 1.0     | [Maker Checklist](/Documentation/Hand-Raiser_Maker_Checklist.pdf)         |
-| Bill of Materials            | 1.0     | [BOM](/Documentation/Hand-Raiser_BOM_V1.0.xlsx)                                |
+| Bill of Materials            | 1.0     | [BOM](/Documentation/Working_Documentation/Hand-Raiser_BOM_V1.0.xlsx)                                |
 | 3D Printing Guide            | 1.0     | [3D Printing Guide](Documentation/Hand-Raiser_3D_Printing_Guide.pdf)      |
 | Assembly Guide               | 1.0     | [Assembly Guide](/Documentation/Hand-Raiser_Assembly_Guide.pdf)           | 
 | Maker Checklist              | 1.0     | [Maker Checklist](/Documentation/Hand-Raiser_Maker_Checklist.pdf)         |
