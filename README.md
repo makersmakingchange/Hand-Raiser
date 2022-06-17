@@ -1,19 +1,19 @@
 # Hand-Raiser
 An assistive device used to catch the attention of a professor: an alternative to a student having to raise their hand.
 
-add picture
+![Light on](https://user-images.githubusercontent.com/98916090/174344079-c2ac1a0e-ba93-4f09-a4d8-bbbb5554a598.PNG)
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/forum/topic/handraiser/)
+- [Makers Making Change Project Page]( https://makersmakingchange.com/project/hand-raiser/)
 
 ## Getting Started
 1. How to build this device
 
-All of the files and instructions required to build the Low Profile Switch are contained within this repository. Refer to the Maker Checklist below.
+All of the files and instructions required to build the Hand-Raiser are contained within this repository. Refer to the Maker Checklist below.
 
 2. How to request a build of this device
 
-If you would like to obtain a Low Profile Switch but do not have the skills or equipment to do so, you may submit a build request through the [MMC Library Page]( https://makersmakingchange.com/forum/topic/handraiser/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Hand-Raiser but do not have the skills or equipment to do so, you may submit a build request through the [MMC Library Page](  https://makersmakingchange.com/project/hand-raiser/). The requestor is responsible for the cost of materials and any shipping.
 
 3. How to build this device for someone else
 
@@ -35,15 +35,17 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Attribution 
 
-Designed by AT Makers
-Documentation created by Neil Squire / Makers Making Change.
+This device was designed by AT Makers.
+The code for this device was written by Bill Binko and is licensed under the MIT license.
+The Hand-Raiser 3D printed housing was designed by AT Makers and is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
+Documentation for this device was created by Neil Squire / Makers Making Change licensed under the CC-BY-SA 4.0 license.
  
 
 ## License 
-Everything needed or used to design, make, test, or prepare the Low Profile Switch is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Hand Raiser is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
  
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Low Profile Switch are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0) 
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Hand Raiser are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0) 
  
 
 
