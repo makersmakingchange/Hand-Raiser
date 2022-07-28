@@ -5,6 +5,7 @@ An assistive device used to catch the attention of a professor: an alternative t
 
 ## More info at
 - [Makers Making Change Project Page]( https://makersmakingchange.com/project/hand-raiser/)
+- [Adafruit Learning Guide](https://learn.adafruit.com/AT-Hand-Raiser)
 
 ## Getting Started
 1. How to build this device
