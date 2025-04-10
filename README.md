@@ -32,7 +32,7 @@ If you have the skills and equipment to build this device, and would like to don
 | Assembly Guide               | 1.0     | [Assembly Guide](/Documentation/Hand-Raiser_Assembly_Guide.pdf)           | 
 | Maker Checklist              | 1.0     | [Maker Checklist](/Documentation/Hand-Raiser_Maker_Checklist.pdf)         |
 | Adding Additional Colours    | 1.0     | [Adding Additional Colours](/Documentation/Hand-Raiser_How_to_Add_Additional_Colours.pdf)                  |
-| User Quick Guide     | 1.0     | [User Guide](/Documentation/Hand-Raiser_User_Guide.pdf)                  |
+| User Quick Guide             | 1.0     | [User Guide](/Documentation/Hand-Raiser_User_Guide.pdf)                  |
 
 ## Attribution 
 
@@ -52,6 +52,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
  ----
 
+<!-- ABOUT MMC START -->
  ## About Us 
 
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo"> 
@@ -82,3 +83,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Forum]( https://www.makersmakingchange.com/forum) or contact info@makersmakingchange.com 
 
+<!-- ABOUT MMC END -->
